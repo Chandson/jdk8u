@@ -94,6 +94,7 @@ main(int argc, char **argv)
 {
     int margc;
     char** margv;
+    printf("Hello,linyouquan. Welcom to learning jvm.\n");
     const jboolean const_javaw = JNI_FALSE;
 #endif /* JAVAW */
 #ifdef _WIN32
